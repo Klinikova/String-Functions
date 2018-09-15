@@ -1,4 +1,3 @@
-
 var groceryItems = "";  //Global Variable
 	
 var $ = function (id) {
